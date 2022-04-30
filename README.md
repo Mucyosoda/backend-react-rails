@@ -7,10 +7,11 @@ Things you may want to cover:
 * Configuration
 * Database creation
 * Database initialization
-* How to run the test suite
 * Services (job queues, cache servers, search engines, etc.)
 * Deployment instructions
-* ...
+* Run in your terminal git clone https://github.com/Mucyosoda/Hello-Rails-React.git
+* PR frontend app: https://github.com/Mucyosoda/frontend-react/pull/2 
+
 
 ## Built With
 * Ruby on Rails
