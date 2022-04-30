@@ -10,7 +10,8 @@ Things you may want to cover:
 * How to run the test suite
 * Services (job queues, cache servers, search engines, etc.)
 * Deployment instructions
-* ...
+* Run in your terminal git clone https://github.com/Mucyosoda/Hello-Rails-React.git
+
 
 ## Built With
 * Ruby on Rails
