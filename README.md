@@ -10,6 +10,7 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 * Deployment instructions
 * Run in your terminal git clone https://github.com/Mucyosoda/Hello-Rails-React.git
+* PR frontend app: https://github.com/Mucyosoda/frontend-react/pull/2 
 
 
 ## Built With
